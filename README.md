@@ -10,3 +10,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
 I am a .NET developer specializing in process automation using Selenium. With experience in creating and maintaining automated solutions, I have been helping companies optimize their workflows, reduce human errors, and increase operational efficiency.
 <br>I worked for one year developing applications in Laravel, and for the past two and a half years, I have been focused on automation using Selenium. Currently, I am deepening my knowledge in developing web applications with .NET API and Angular, always striving to evolve and expand my skills in the field of programming.
 </p>
+<br>
+[![Willian Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=williannalbert&theme=dracula)](https://github.com/williannalbert)
+
+[![Willian Nalbert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=williannalbert&theme=dracula&layout=compact)](https://github.com/williannalbert)
